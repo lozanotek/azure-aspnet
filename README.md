@@ -1,3 +1,4 @@
+![alt text](http://lozanotek.com/images/logo.gif "Created by Lozanotek, Inc.")
 # Azure for ASP.NET Developers
 Repository for slides and links to the Azure for ASP.NET Developers presentation
 

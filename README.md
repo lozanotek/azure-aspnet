@@ -6,6 +6,7 @@ Session Topics:
 * App Services (App Service Plan)
 * Managed Identity (System Assigned)
 * Service Bus (Topics / Subscriptions)
+* Application Insights (Exceptions / Telemetry)
 * Fuctions (Triggered)
 * Key Vault (Secrets / Value References)
 * SQL Database (Managed Identity / Free Tier)

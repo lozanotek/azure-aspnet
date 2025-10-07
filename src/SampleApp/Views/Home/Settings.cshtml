@@ -1,0 +1,10 @@
+﻿@inject IConfiguration Configuration
+
+@{
+    var secretA = Configuration["SecretA"] ?? string.Empty;
+    var secretB = Configuration["SecretB"] ?? string.Empty;
+
+}
+<h3>Settings</h3>
+<p>Secret A: <strong>@secretA</strong></p>
+<p>Secret B: <strong>@secretB</strong></p>
